@@ -27,7 +27,7 @@ CLOUDINARY_API_SECRET=secret
 
 To start testing:
 
-pytest --cov=. --cov-report html tests/
+pytest --cov=. --cov-report html
 
 
 
